@@ -2,28 +2,17 @@
 	{
 		"id": 1,
 		"name": "Ferrinhos",
-		"age": 29,
-		"post": {
-			"title": "O meu glow-up de Ferrinhos a Ferrão",
-			"length": 238
-		}
+		"age": 29
 	},
 	{
 		"id": 2,
 		"name": "Ricardo",
-		"age": 17,
-		"post": {
-			"title": "Não vão acreditar no que me aconteceu",
-			"length": 498
-		}
+		"age": 17
+
 	},
 	{
 		"id": 3,
 		"name": "Rui",
-		"age": 30,
-		"post": {
-			"title": "É mais, Anabela",
-			"length": 498
-		}
+		"age": 30
 	}
 ]
