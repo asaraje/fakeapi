@@ -1,36 +1,29 @@
-{
-    "persons": [
-        {
-            "id": 1,
-            "name": "Ferrinhos",
-            "age": 29
-        },
-        {
-            "id": 2,
-            "name": "Ricardo",
-            "age": 17
-        },
-        {
-            "id": 3,
-            "name": "Rui",
-            "age": 30
-        }
-    ],
-    "posts": [
-        {
-            "id": 1,
-            "title": "Não aguento mais", 
-            "authorId": 3
-        },
-        {
-            "id": 1,
-            "title": "O meu glow-up de Ferrinhos a Ferrão",
-            "authorId": 1
-        },
-        {
-            "id": 1,
-            "title": "Não vão acreditar no que me aconteceu",
-            "authorId": 2
-        }
-    ]
-}
+[
+	{
+		"id": 1,
+		"name": "Ferrinhos",
+		"age": 29,
+		"post": {
+			"title": "O meu glow-up de Ferrinhos a Ferrão",
+			"length": 238
+		}
+	},
+	{
+		"id": 2,
+		"name": "Ricardo",
+		"age": 17,
+		"post": {
+			"title": "Não vão acreditar no que me aconteceu",
+			"length": 498
+		}
+	},
+	{
+		"id": 3,
+		"name": "Rui",
+		"age": 30,
+		"post": {
+			"title": "É mais, Anabela",
+			"length": 498
+		}
+	}
+]
