@@ -1,0 +1,36 @@
+{
+    "persons": [
+        {
+            "id": 1,
+            "name": "Ferrinhos",
+            "age": 29
+        },
+        {
+            "id": 2,
+            "name": "Ricardo",
+            "age": 17
+        },
+        {
+            "id": 3,
+            "name": "Rui",
+            "age": 30
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Não aguento mais", 
+            "authorId": 3
+        },
+        {
+            "id": 1,
+            "title": "O meu glow-up de Ferrinhos a Ferrão",
+            "authorId": 1
+        },
+        {
+            "id": 1,
+            "title": "Não vão acreditar no que me aconteceu",
+            "authorId": 2
+        }
+    ]
+}
